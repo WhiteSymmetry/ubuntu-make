@@ -132,7 +132,7 @@ msgid "Dartlang Development Environment"
 msgstr "Dartlang Geliştirme Ortamı"
 
 #: umake/frameworks/dart.py:49
-msgid "Dart SDK with editor (not supported upstream anyymore)"
+msgid "Dart SDK with editor (not supported upstream anymore)"
 msgstr "Düzenleyici ile Dart SDK (bundan sonra güncellemeleri desteklenmeyecek)"
 
 #: umake/frameworks/dart.py:56
